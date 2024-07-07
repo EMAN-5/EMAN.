@@ -1,0 +1,38 @@
+body {
+    font-family:Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0%;
+    padding: 0%;
+    background-color: azure;
+    color: #0c000e;
+}
+
+header {
+    background-color: rgb(246, 234, 241);
+    color: black;
+    padding: 1em 0;
+    text-align: center;
+}
+
+section {
+    padding: 1em;
+    margin: 1em 0 ;
+    background-color: rgb(249, 234, 245);
+    border-radius: 8px;
+}
+
+h1, h2 {
+    margin-bottom: 0.5em;
+}
+
+ul {
+    list-style-type: none ;
+    padding: 0;
+}
+
+ul li {
+    background: #ebd7f0;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border-radius: 4px;
+}
